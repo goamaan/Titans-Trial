@@ -1,6 +1,7 @@
-# Team17-DefiantMortals-TitansTrial
+# Titan's Trial
 
-Titan's Trial - A 2D Endless survival game
+
+Titan's Trial - A 2D Endless survival game - Brought to you by Team17 - Defiant Mortals
 
 ## Attributions
 
