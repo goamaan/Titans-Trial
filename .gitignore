@@ -1,0 +1,15 @@
+*.o
+
+*.exe
+*.out
+*.app
+
+.vs/
+out/
+build/
+ext/project_path.hpp
+ext/project_path.hpp.*
+
+.DS_Store
+
+.vscode/
