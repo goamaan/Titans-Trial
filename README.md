@@ -1,5 +1,6 @@
 # Titan's Trial
 
+Watch the trailer [here](https://www.youtube.com/watch?v=L54LaluomQA)
 
 Titan's Trial - A 2D Endless survival game - Brought to you by Team17 - Defiant Mortals
 
